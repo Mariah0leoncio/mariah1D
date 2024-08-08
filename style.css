@@ -5,3 +5,8 @@ body {
     p { 
         color: rgb(87, 48, 20);
     }
+
+    .lakers { 
+        font-style: italic;
+        color: honeydew ;
+    }
