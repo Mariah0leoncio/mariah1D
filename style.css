@@ -5,7 +5,7 @@ body {
     
 }
 
-    p { 
+    h1 { 
         color: rgb(87, 48, 20);
     }
 
@@ -24,6 +24,9 @@ body {
     section {
         display: block;
         unicode-bidi: isolate;
+    }
+    .imgl {
+        width: 50%;
     }
 
 
