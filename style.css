@@ -2,8 +2,8 @@ body {
     background-color: darkgoldenrod
     ; text-align: left;
     margin: 0px;
-    
-}
+    font-family: "chakra Petch", sans-serif;  
+    }
 
     h1 { 
         color: rgb(87, 48, 20);
@@ -20,6 +20,7 @@ body {
         padding: 20px;
         font-size: 20px;
         text-decoration: none;
+        color: goldenrod;
     }
     section {
         display: block;
@@ -28,5 +29,10 @@ body {
     .imgl {
         width: 50%;
     }
-
+    p   {
+        font-size: 30%;
+    }
+    .categoria-videos {
+        display: flex;
+    }
 
